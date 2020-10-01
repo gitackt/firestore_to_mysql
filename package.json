@@ -12,6 +12,7 @@
     "dotenv": "^8.2.0",
     "firebase-admin": "^9.2.0",
     "fs": "^0.0.1-security",
+    "mysql": "^2.18.1",
     "prettier": "^2.1.2"
   }
 }
